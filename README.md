@@ -1,2 +1,0 @@
-# PlatformIO
-Study of PlatformIO
